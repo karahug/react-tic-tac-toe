@@ -1,1 +1,41 @@
-/* scss goes here */
+.cell {
+    width: 30px;
+    height: 30px;
+    border-style: solid;
+    border-width: 3px;
+    display: block;
+    float: left;
+    text-align: center;
+    line-height: 30px;
+}
+
+.row {
+
+    clear: left;
+}
+
+.info {
+    margin: auto;
+    width: 80%;
+    clear: left;
+}
+
+.player-turn {
+    margin: auto;
+    width: 80%;
+}
+
+.board {
+    margin: auto;
+    width: 80%;
+}
+
+.title {
+    margin: auto;
+    width: 80%;
+}
+
+.score {
+    margin: auto;
+    width: 80%;
+}
